@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+.left{
+    width: 30%;
+    float: left;
+    background-color: burlywood;
+    
+}
+.right{
+    width: 70%;
+    float: left;
+    background-color:cornflowerblue;
+   
+}
+.chat{
+    width: 100%;
+}
+.boxtitle{
+    border: 1px solid black;
+}
+.boxconten{
+    border: 1px solid black;
+}
+.messenger{
+     height: 200px;
+     background-color: cornsilk;
+     margin-bottom: 10px;
+}
+.sayhello{
+    text-align: right;
+}
